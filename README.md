@@ -1,29 +1,113 @@
 <h1 align="center">Hi 👋, I'm Lamphrangmi Lamin</h1>
-<h3 align="center">I'm a passionate frontend developer with expertise in React, dedicated to crafting delightful user experiences. I'm actively seeking opportunities to work on exciting projects with innovative teams.</h3>
 
-- 🌱 I’m currently learning **Frontend-Engineer Career Path on Codecademy**
+<h3 align="center">
+Frontend Engineer • React • TypeScript • Building modern web applications
+</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Lamphrangmi-Lamin/](https://github.com/Lamphrangmi-Lamin/)
-
-- 💬 Ask me about **React, HTML, CSS, Javascript**
-
-- 📫 How to reach me **lamphrangmilamin46169@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Lamphrangmi-Lamin/](https://github.com/Lamphrangmi-Lamin/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/lamphrangmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lamphrangmi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lamphrangmi lamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lamphrangmi lamin" height="30" width="40" /></a>
-<a href="https://fb.com/lemon codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lemon codes" height="30" width="40" /></a>
+<p align="center">
+I'm a frontend developer from India who enjoys turning ideas into fast, responsive, and accessible web applications.
+Currently sharpening my React ecosystem skills while building production-quality projects and preparing for my first Frontend Engineer role.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamphrangmi-lamin&show_icons=true&locale=en&layout=compact" alt="lamphrangmi-lamin" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamphrangmi-lamin&show_icons=true&locale=en" alt="lamphrangmi-lamin" /></p>
+- 💻 Currently building real-world frontend projects with **React**, **TypeScript**, and **Next.js**
+- 🌱 Learning advanced frontend architecture, performance optimization, and modern development workflows
+- 🎯 Goal: Land a Frontend Engineer role and eventually specialize in AI-powered web applications
+- 📚 Always learning through hands-on projects instead of tutorial-only learning
+- ✍️ I also create programming content on YouTube
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lamphrangmi-lamin&" alt="lamphrangmi-lamin" /></p>
+---
 
+## 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,redux,vite" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,appwrite" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,npm" />
+</p>
+
+### Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=typescript,nextjs,nodejs" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+Here are some of the projects I've built:
+
+- 🎵 **Jammming** — Spotify playlist creator using the Spotify API
+- 🌦 **Weather Dashboard** — Real-time weather application
+- 🍽 **Recipe Finder** — Search recipes using TheMealDB API
+- 🛒 **Shopping Cart** — Modern e-commerce cart built with JavaScript
+- 🎧 **Music Player** — Browser-based music player
+
+➡️ Check out all my repositories below.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lamphrangmi-Lamin&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamphrangmi-Lamin&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Lamphrangmi-Lamin&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/Lamphrangmi-Lamin">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://dev.to/lamphrangmi">
+<img src="https://skillicons.dev/icons?i=devto" />
+</a>
+
+<a href="mailto:lamphrangmilamin46169@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+## 💬 Ask Me About
+
+- React
+- JavaScript
+- TypeScript
+- HTML & CSS
+- Tailwind CSS
+- Frontend Architecture
+- UI Development
+
+---
+
+> *"Great software isn't just about writing code—it's about crafting experiences users enjoy."*
